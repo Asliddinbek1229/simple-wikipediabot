@@ -1,2 +1,2 @@
 # simple-wikipediabot
-Here is a simple code for a simple wikipedia bot. My first job.
+This repository provides simple code for a simple wikipedia bot. My first job.
